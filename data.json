@@ -30,78 +30,107 @@
   "project": [
     {
       "id": 0,
-      "name": "첫번째 팀 프로젝트",
-      "description": "프로젝트에 대한 간단한 설명을 적을 수 있습니다. 어떤 프로젝트인지 주제나 강조하고 싶은 부분을 적어보세요.",
-      "webUrl": "https://github.com/sjoleee/",
-      "repoUrl": "https://github.com/sjoleee/",
+      "name": "pokewith",
+      "description": "첫 코딩 부트 캠프에서 만들었던 첫 팀 프로젝트입니다. 포켓고 유저 레이드 초대 페이지를 만들어봤어요.",
+      "webUrl": "",
+      "repoUrl": "https://github.com/Jeong-hae-rim/pokewithFront/tree/develop",
       "isTeam": true,
       "period": ["2022. 07", "2022. 09"],
-      "stack": ["사용한 기술을 적어주세요", "React.js", "JavaScript", "styled-components", "Recoil"]
+      "stack": ["JavaScript", "HTML/CSS", "java", "jquery", "배포 X"]
     },
     {
       "id": 1,
-      "name": "첫번째 개인 프로젝트",
-      "description": "프로젝트에 대한 간단한 설명을 적을 수 있습니다. 어떤 프로젝트인지 주제나 강조하고 싶은 부분을 적어보세요.",
-      "webUrl": "https://github.com/sjoleee/",
-      "repoUrl": "https://github.com/sjoleee/",
+      "name": "주차장 프로젝트",
+      "description": "머리털 나고 처음으로 만든 주차장 시스템 프로젝트입니다. ERD부터 서버, 클라이언트까지 전부 혼자서 1달 만에 제작한, 조금은 엉성한 프로젝트예요.",
+      "webUrl": "",
+      "repoUrl": "https://github.com/Jeong-hae-rim/mini_project",
       "isTeam": false,
-      "period": ["2022. 10", "2022. 11"],
-      "stack": ["JavaScript", "HTML/CSS"]
+      "period": ["2020. 08", "2020. 09"],
+      "stack": ["JavaScript", "HTML/CSS", "Node.js", "배포 X"]
+    },
+    {
+      "id": 2,
+      "name": "Tiggle",
+      "description": "거지방 컨셉의 소규모 팀 프로젝트입니다. 아직도 뚝딱뚝딱 같이 만드는 중!",
+      "webUrl": "",
+      "repoUrl": "https://github.com/kdh-92/Tiggle",
+      "isTeam": true,
+      "period": ["2023. 06", "now"],
+      "stack": [
+        "React.js",
+        "Stlyed-Component",
+        "React-query",
+        "Redux",
+        "Storybook",
+        "Java",
+        "Social-login",
+        "배포 중"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Beakseolgi",
+      "description": "골-트래커 컨셉의 소규모 팀 프로젝트입니다. 아직도 뚝딱뚝딱 같이 만드는 중!",
+      "webUrl": "https://100seolgi.click/",
+      "repoUrl": "https://github.com/kdh-92/Tiggle",
+      "isTeam": true,
+      "period": ["2023. 08", "now"],
+      "stack": ["React.js", "tailwind", "React-query", "Redux", "Next.js", "Social-login"]
     }
   ],
 
   "activity": [
     {
       "id": 0,
-      "name": "첫번째 활동",
-      "period": ["2022. 06", "2022. 08"],
-      "description": "첫번째 활동에 대한 간략한 설명"
+      "name": "Tiggle",
+      "period": ["2023. 06", "now"],
+      "description": "두 번째 직장에서 만난 분들끼리 모여서 작은 팀을 꾸려 소규모 프로젝트를 개발 하고 있습니다."
     },
     {
       "id": 1,
-      "name": "두번째 활동",
-      "period": ["2022. 06", "2022. 08"],
-      "description": "두번째 활동에 대한 간략한 설명"
+      "name": "FE Crafter",
+      "period": ["2023. 08", "now"],
+      "description": "두 번째 직장에서 퇴직하고 작은 프로젝트 하나만이라도 만들어보자! 하고 모여서 작은 프로젝트를 개발해 나가고 있습니다."
     }
   ],
 
   "education": [
     {
       "id": 0,
-      "name": "첫번째 교육",
-      "period": ["2013. 02", "2020. 02"],
-      "description": "첫번째 교육에 대한 간략한 설명"
+      "name": "가천대 글로벌 캠퍼스",
+      "period": ["2017. 03", "2020. 02"],
+      "description": "경영학 트랙 / 글로벌 경제학과"
     },
     {
       "id": 1,
-      "name": "두번째 교육",
-      "period": ["2013. 02", "2020. 02"],
-      "description": "두번째 교육에 대한 간략한 설명"
+      "name": "구공 팩토리 4기",
+      "period": ["2020. 08", "2020. 11"],
+      "description": "90일 간의 코딩 부트 캠프."
+    },
+    {
+      "id": 2,
+      "name": "타입스크립트로 함께하는 웹 풀 사이클 개발(React, Node.js) 1기",
+      "period": ["2023. 11", "now"],
+      "description": "실무에서 요구하는 5개의 스프린트 프로젝트로 개인성장과 동료성장을 동시에! 6개월동안 완성하는 풀스택 육성 과정."
     }
   ],
 
   "certificate": [
     {
       "id": 0,
-      "name": "TOEIC 1000점",
-      "date": "2019. 07. 28",
-      "organizer": "ETS"
-    },
-    {
-      "id": 1,
-      "name": "OPIC IH",
-      "date": "2019. 07. 28",
-      "organizer": "ETS"
+      "name": "",
+      "date": "",
+      "organizer": ""
     }
   ],
 
   "award": [
     {
       "id": 0,
-      "name": "첫번째 수상",
-      "date": "2019. 07. 28",
-      "organizer": "수여기관",
-      "description": "첫번째 수상에 대한 간략한 설명"
+      "name": "",
+      "date": "",
+      "organizer": "",
+      "description": ""
     }
   ]
 }
