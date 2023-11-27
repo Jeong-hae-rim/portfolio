@@ -1,7 +1,8 @@
-- Hoo-ooh-ooh-ooh
-- Hoo-ooh-ooh-ooh
-- Stay in the middle
-- Like you a little
-- Don't want no riddle
-- 말해줘 say it back, oh, say it ditto
-- 아침은 너무 멀어 so say it ditto
+### It's me
+- MBTI 맹신론자인데 ISTP 입니다!
+- 커피 없으면 죽는 사람. 1일 1커피.
+- 프론트엔드 과정 부트캠프 수료 후 개발자로 커리어 전환했습니다.
+    - 삽질을 잔뜩 하고 거기서 나온 흙으로 빚는 개발자입니다.
+- 알고리즘과 CS, 네트워크에 관심이 많아 쫌쫌따리 공부하는 중입니다.
+- 무에서 유를 창조는 못하지만, 유에서 더 아름다운 유로 서포팅할 줄 아는 능력이 있습니다.
+    - 무슨 의미냐면... 디자인 기획은 못하는데 어떤 디자인이 예쁜지는 알아보고 구현할 수 있습니다!

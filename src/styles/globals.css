@@ -34,6 +34,7 @@
   .markdown h3,
   .markdown h4 {
     @apply pt-4 pb-2;
+    @apply flex items-center gap-2
   }
 
   strong {

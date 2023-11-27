@@ -12,13 +12,15 @@ const ContactItem = ({
   className?: string;
 }) => {
   return (
-    <a target="_blank" rel="noreferrer" href={isEmail ? `mailto:${href}` : href} className="w-fit">
-      <span
-        className={`px-1 text-xs dark:text-GRAY_HEAVY hover:text-BLACK dark:hover:text-BLACK ${className}`}
-      >
-        {children}
-      </span>
-    </a>
+    <div className="bg-teal-500 hover:bg-teal-700 rounded-full">
+      <a target="_blank" rel="noreferrer" href={isEmail ? `mailto:${href}` : href} className="w-fit">
+        <span
+          className={`px-1 text-sm ${className}`}
+        >
+          {children}
+        </span>
+      </a>
+    </div>
   );
 };
 
